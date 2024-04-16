@@ -1,6 +1,6 @@
 {
   "name": "@dogma-project/core-meta-be-node",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Dogma is a cross-platform, non-anonymous, privacy-oriented decentralized communication platform written in JavaScript. Core package",
   "main": "./dist/index.js",
   "types": "./declarations/index.d.ts",
