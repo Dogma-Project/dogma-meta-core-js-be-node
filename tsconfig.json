@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "module": "NodeNext",
+    "module": "ES6",
     "lib": ["es6"],
     "allowJs": true,
     "outDir": "dist",
@@ -9,7 +9,7 @@
     "strict": true,
     "noImplicitAny": true,
     "esModuleInterop": true,
-    "resolveJsonModule": true,
+    // "resolveJsonModule": true,
     "skipLibCheck": true,
     "declaration": true,
     "declarationDir": "./declarations",
