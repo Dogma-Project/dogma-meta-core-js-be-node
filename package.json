@@ -1,5 +1,5 @@
 {
-  "name": "@dogma-project/core-host-api",
+  "name": "@dogma-project/core-meta-be-node",
   "version": "0.1.2",
   "description": "Dogma is a cross-platform, non-anonymous, privacy-oriented decentralized communication platform written in JavaScript. Core package",
   "main": "./dist/index.js",
